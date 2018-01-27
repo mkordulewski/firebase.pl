@@ -1,0 +1,4 @@
+RewriteEngine On
+
+RewriteCond %{HTTP_HOST} ^((.*)\.)?(firebase\.pl)$ [NC]
+RewriteRule ^ https://firebase.google.com [R=302,L,NE]
