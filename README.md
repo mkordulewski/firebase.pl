@@ -2,5 +2,5 @@
 
 * Polish Firebase website:
   * http://firebase.pl/
-* Redirects to Firebase website:
+* Based on main Firebase website:
   * https://firebase.google.com/
