@@ -1,6 +1,6 @@
 # Firebase.pl
 
 * Polish Firebase website:
-  * http://firebase.pl/
+  * https://firebase.pl/
 * Based on main Firebase website:
   * https://firebase.google.com/
